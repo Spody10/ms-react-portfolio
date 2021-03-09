@@ -5,7 +5,7 @@ function About() {
         <section>
             <div className="d-flex pb-5">
                 <div className="section-heading">
-                <h3 className="">About Me</h3>
+                <h3 id="about" className="">About Me</h3>
                 </div>
             </div>
             <div className="w-100">

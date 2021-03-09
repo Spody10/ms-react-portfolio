@@ -45,7 +45,7 @@ function Portfolio() {
   ];
   return (
     <div>
-      <Container className="d-flex flex-wrap mt-5">
+      <Container id="portfolio" className="d-flex flex-wrap mt-5">
         {projects.map((project) => (
           <div>
             <div>
