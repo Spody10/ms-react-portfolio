@@ -101,6 +101,15 @@ body {
   font-family: "Courier New";
 }
 
+.bio-image {
+  height: 150px;
+  width: 150px;
+  background-size: cover;
+  background-image: url("./assets/images/bio-image.jpg");
+  border: solid 2px var(--accent-theme);
+  margin: 0 auto;
+}
+
 .section-heading {
   background-color: var(--text-theme);
   color: var(--accent-theme);
@@ -191,4 +200,82 @@ footer a:hover {
   height: 300px;
   width: 400px;
   margin: 10px 6px;
+}
+
+.resume-text {
+  margin: 0 1em 1em 1em;
+}
+.resume-link-container {
+  border-top: solid 10px var(--text-theme);
+}
+.resume-link {
+  background-color: #6fffe9;
+  width: 10em;
+  margin-right: 3em;
+  margin-top: 1.5em;
+}
+.resume-link-text {
+  color: var(--bg-theme);
+  margin: 0.5em 0;
+}
+.skills-border {
+  border-top: solid 10px var(--text-theme);
+  border-bottom: solid 10px var(--text-theme);
+}
+
+.skills-header {
+  width: 12em;
+  text-align: center;
+}
+
+@media screen and (min-width: 1025px) {
+  header {
+    margin-right: 0;
+  }
+
+  .title-bar {
+    align-self: flex-start;
+    margin-left: 100px;
+  }
+
+  .subtitle-bar {
+    align-self: flex-start;
+    margin-left: 90px;
+  }
+
+  .navbar {
+    margin-right: 5em;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    margin: 0 1em;
+  }
+
+  .bio-image {
+    height: 150px;
+    width: 150px;
+  }
+
+  .bio-text {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .contact-text {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .contact-form {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .resume-text {
+    margin: 0 auto;
+    width: 80%;
+  }
+
+  .resume-link {
+    margin-right: 320px;
+  }
 }

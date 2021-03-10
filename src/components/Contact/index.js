@@ -39,9 +39,9 @@ function Contact() {
   return (
     <div className="d-flex justify-content-center">
       <section id="contact" className="m-3">
-        <h1 className="font-color text-center" data-testid="h1tag">
+        <h3 className="section-heading text-center" data-testid="h1tag">
           Contact me
-        </h1>
+        </h3>
         <form
           className="container form-group"
           id="contact-form"

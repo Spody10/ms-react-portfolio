@@ -45,7 +45,12 @@ function Portfolio() {
   ];
   return (
     <div>
-      <Container id="portfolio" className="d-flex flex-wrap mt-5">
+      <div id="portfolio" className="d-flex">
+        <div className="section-heading">
+          <h3 className="">Portfolio</h3>
+        </div>
+      </div>
+      <Container className="d-flex flex-wrap mt-5">
         {projects.map((project) => (
           <div>
             <div>
@@ -59,7 +64,7 @@ function Portfolio() {
             
             
             <p>
-              <a href={project.link}>Deployed Application</a>
+              <a className="active-links" href={project.link}>Deployed Application</a>
             </p>
             <p>
               <a href={project.repo}>Project Repository</a>
