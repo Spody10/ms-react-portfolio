@@ -1,33 +1,34 @@
 {
   "files": {
     "main.css": "/ms-react-portfolio/static/css/main.50595796.chunk.css",
-    "main.js": "/ms-react-portfolio/static/js/main.0fc76794.chunk.js",
-    "main.js.map": "/ms-react-portfolio/static/js/main.0fc76794.chunk.js.map",
-    "runtime-main.js": "/ms-react-portfolio/static/js/runtime-main.4c0a32e9.js",
-    "runtime-main.js.map": "/ms-react-portfolio/static/js/runtime-main.4c0a32e9.js.map",
+    "main.js": "/ms-react-portfolio/static/js/main.12a8b3d2.chunk.js",
+    "main.js.map": "/ms-react-portfolio/static/js/main.12a8b3d2.chunk.js.map",
+    "runtime-main.js": "/ms-react-portfolio/static/js/runtime-main.3a751a80.js",
+    "runtime-main.js.map": "/ms-react-portfolio/static/js/runtime-main.3a751a80.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/ms-react-portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.29b4f420.chunk.js": "/ms-react-portfolio/static/js/2.29b4f420.chunk.js",
-    "static/js/2.29b4f420.chunk.js.map": "/ms-react-portfolio/static/js/2.29b4f420.chunk.js.map",
-    "static/js/3.b0957f98.chunk.js": "/ms-react-portfolio/static/js/3.b0957f98.chunk.js",
-    "static/js/3.b0957f98.chunk.js.map": "/ms-react-portfolio/static/js/3.b0957f98.chunk.js.map",
+    "static/js/2.8c3ab73e.chunk.js": "/ms-react-portfolio/static/js/2.8c3ab73e.chunk.js",
+    "static/js/2.8c3ab73e.chunk.js.map": "/ms-react-portfolio/static/js/2.8c3ab73e.chunk.js.map",
+    "static/js/3.224504f1.chunk.js": "/ms-react-portfolio/static/js/3.224504f1.chunk.js",
+    "static/js/3.224504f1.chunk.js.map": "/ms-react-portfolio/static/js/3.224504f1.chunk.js.map",
     "index.html": "/ms-react-portfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/ms-react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.50595796.chunk.css.map": "/ms-react-portfolio/static/css/main.50595796.chunk.css.map",
-    "static/js/2.29b4f420.chunk.js.LICENSE.txt": "/ms-react-portfolio/static/js/2.29b4f420.chunk.js.LICENSE.txt",
+    "static/js/2.8c3ab73e.chunk.js.LICENSE.txt": "/ms-react-portfolio/static/js/2.8c3ab73e.chunk.js.LICENSE.txt",
     "static/media/IMG_8291.jpg": "/ms-react-portfolio/static/media/IMG_8291.eade9a6e.jpg",
     "static/media/Vehicle_value_img.png": "/ms-react-portfolio/static/media/Vehicle_value_img.15a815fa.png",
     "static/media/artfuldodgerscreenshot.png": "/ms-react-portfolio/static/media/artfuldodgerscreenshot.2ab595dc.png",
     "static/media/b-t-screenshot.png": "/ms-react-portfolio/static/media/b-t-screenshot.2bbd5704.png",
     "static/media/bio-image.jpg": "/ms-react-portfolio/static/media/bio-image.b2f2daa1.jpg",
+    "static/media/pokefindertcg.png": "/ms-react-portfolio/static/media/pokefindertcg.97e2bd7c.png",
     "static/media/run-buddy.png": "/ms-react-portfolio/static/media/run-buddy.ed1f88d4.png",
     "static/media/screencapture-code-quiz.png": "/ms-react-portfolio/static/media/screencapture-code-quiz.0025c123.png",
     "static/media/screencapture-weather-dashboard.png": "/ms-react-portfolio/static/media/screencapture-weather-dashboard.45b53239.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c0a32e9.js",
+    "static/js/runtime-main.3a751a80.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.29b4f420.chunk.js",
+    "static/js/2.8c3ab73e.chunk.js",
     "static/css/main.50595796.chunk.css",
-    "static/js/main.0fc76794.chunk.js"
+    "static/js/main.12a8b3d2.chunk.js"
   ]
 }
