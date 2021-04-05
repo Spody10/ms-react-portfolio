@@ -25,10 +25,10 @@ function Portfolio() {
       repo: "https://github.com/Spody10/budget-tracker",
     },
     {
-      image: "screencapture-code-quiz.png",
-      title: "Code Quiz",
-      link: "https://spody10.github.io/code-quiz/",
-      repo: "https://github.com/Spody10/code-quiz",
+      image: "pokefindertcg.png",
+      title: "PokefinderTCG",
+      link: "https://pokefinder-tcg.herokuapp.com/",
+      repo: "https://github.com/Spody10/PokefinderTCG",
     },
     {
       image: "Vehicle_value_img.png",
