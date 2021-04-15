@@ -105,7 +105,8 @@ body {
   height: 150px;
   width: 150px;
   background-size: cover;
-  background-image: url("./assets/images/bio-image.jpg");
+  background-image: url("./assets/images/IMG_5050.jpeg");
+  background-position: center;
   border: solid 2px var(--accent-theme);
   margin: 0 auto;
 }
