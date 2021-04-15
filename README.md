@@ -1,6 +1,6 @@
 # Michael's React Portfolio
 
-![Screenshot of Michael Spore's portfolio](./screenshot/screenshot.png)
+![Screenshot of Michael Spore's portfolio](./screenshot/updated-screenshot.png)
 
 ## Description
 
